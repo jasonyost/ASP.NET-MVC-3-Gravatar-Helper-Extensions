@@ -1,0 +1,5 @@
+f:\dev\GravatarExtensions\System.Web.Mvc.Html.Extensions.Gravatar\bin\Debug\System.Web.Mvc.Html.Extensions.Gravatar.dll
+f:\dev\GravatarExtensions\System.Web.Mvc.Html.Extensions.Gravatar\bin\Debug\System.Web.Mvc.Html.Extensions.Gravatar.pdb
+f:\dev\GravatarExtensions\System.Web.Mvc.Html.Extensions.Gravatar\obj\Debug\ResolveAssemblyReference.cache
+f:\dev\GravatarExtensions\System.Web.Mvc.Html.Extensions.Gravatar\obj\Debug\System.Web.Mvc.Html.Extensions.Gravatar.dll
+f:\dev\GravatarExtensions\System.Web.Mvc.Html.Extensions.Gravatar\obj\Debug\System.Web.Mvc.Html.Extensions.Gravatar.pdb
